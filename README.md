@@ -1,3 +1,8 @@
+
+![Screenshot 2024-04-17 235629](https://github.com/PhyoZayHtike/first-portfolio/assets/143343820/9eb92a1a-a58d-47ed-a2a8-21e48d188a04)
+
+![Screenshot 2024-04-17 235639](https://github.com/PhyoZayHtike/first-portfolio/assets/143343820/d336fcc9-ba16-43fc-aa9e-9f3b520f6df3)
+
 demo - https://first-portfolio-sigma.vercel.app/
 
 # React + Vite
